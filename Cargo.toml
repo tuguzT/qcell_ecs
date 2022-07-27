@@ -1,0 +1,8 @@
+[package]
+name = "qcell_ecs"
+version = "0.0.0"
+edition = "2021"
+
+[dependencies]
+qcell = "0.5.2"
+slotmap = "1.0.6"
